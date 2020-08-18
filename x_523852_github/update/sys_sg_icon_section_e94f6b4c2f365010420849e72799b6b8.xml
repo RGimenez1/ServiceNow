@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
+    <sys_sg_icon_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applets>e54f6b4c2f365010420849e72799b68b</applets>
+        <data_item/>
+        <display_feed_count>false</display_feed_count>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <orientation>horizontal</orientation>
+        <required_roles>admin</required_roles>
+        <sys_class_name>sys_sg_icon_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-18 17:27:41</sys_created_on>
+        <sys_id>e94f6b4c2f365010420849e72799b6b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GitTeste</sys_name>
+        <sys_package display_value="GitHub" source="x_523852_github">e1bea30c2f365010420849e72799b619</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitHub">e1bea30c2f365010420849e72799b619</sys_scope>
+        <sys_update_name>sys_sg_icon_section_e94f6b4c2f365010420849e72799b6b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-18 17:27:41</sys_updated_on>
+        <table/>
+        <title>GitTeste</title>
+        <visible_condition/>
+    </sys_sg_icon_section>
+</record_update>

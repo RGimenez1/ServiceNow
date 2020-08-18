@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delete Swipe (GitTeste)">614f6b4c2f365010420849e72799b692</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>leading_swipe</location>
+        <name>Delete (GitTeste)</name>
+        <order/>
+        <parent>294f6b4c2f365010420849e72799b68f</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-18 17:27:41</sys_created_on>
+        <sys_id>ed4f6b4c2f365010420849e72799b693</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (GitTeste)</sys_name>
+        <sys_package display_value="GitHub" source="x_523852_github">e1bea30c2f365010420849e72799b619</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitHub">e1bea30c2f365010420849e72799b619</sys_scope>
+        <sys_update_name>sys_sg_button_instance_ed4f6b4c2f365010420849e72799b693</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-18 17:27:41</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=ed4f6b4c2f365010420849e72799b693"/>
+</record_update>

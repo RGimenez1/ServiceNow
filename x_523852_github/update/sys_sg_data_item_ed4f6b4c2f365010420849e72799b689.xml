@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>GitHub GitTeste</name>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-18 17:27:40</sys_created_on>
+        <sys_id>ed4f6b4c2f365010420849e72799b689</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GitHub GitTeste</sys_name>
+        <sys_package display_value="GitHub" source="x_523852_github">e1bea30c2f365010420849e72799b619</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitHub">e1bea30c2f365010420849e72799b619</sys_scope>
+        <sys_update_name>sys_sg_data_item_ed4f6b4c2f365010420849e72799b689</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-18 17:27:40</sys_updated_on>
+        <table>x_523852_github_gitteste</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=ed4f6b4c2f365010420849e72799b689"/>
+</record_update>

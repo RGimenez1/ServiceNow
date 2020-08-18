@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="GitTeste Item Stream">294f6b4c2f365010420849e72799b68e</item_stream>
+        <master_item display_value="GitTeste master_item">294f6b4c2f365010420849e72799b68f</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-18 17:27:41</sys_created_on>
+        <sys_id>a14f6b4c2f365010420849e72799b690</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="GitHub" source="x_523852_github">e1bea30c2f365010420849e72799b619</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitHub">e1bea30c2f365010420849e72799b619</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_a14f6b4c2f365010420849e72799b690</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-18 17:27:41</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

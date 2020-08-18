@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>location</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>80</order>
+        <record_id_field/>
+        <screen display_value="Details">6d4f6b4c2f365010420849e72799b68c</screen>
+        <screen_data_item_table>x_523852_github_gitteste</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-18 17:27:41</sys_created_on>
+        <sys_id>e54f6b4c2f365010420849e72799b6ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>location</sys_name>
+        <sys_package display_value="GitHub" source="x_523852_github">e1bea30c2f365010420849e72799b619</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitHub">e1bea30c2f365010420849e72799b619</sys_scope>
+        <sys_update_name>sys_sg_screen_field_e54f6b4c2f365010420849e72799b6ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-18 17:27:41</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_translated_text action="delete_multiple" query="documentkey=e54f6b4c2f365010420849e72799b6ae"/>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>GitTeste state</name>
+        <parent>e14f6b4c2f365010420849e72799b6af</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-18 17:27:41</sys_created_on>
+        <sys_id>ed4f6b4c2f365010420849e72799b6af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GitTeste state</sys_name>
+        <sys_package display_value="GitHub" source="x_523852_github">e1bea30c2f365010420849e72799b619</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitHub">e1bea30c2f365010420849e72799b619</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_ed4f6b4c2f365010420849e72799b6af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-18 17:27:41</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

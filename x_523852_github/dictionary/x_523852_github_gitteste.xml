@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="GitTeste" max_length="40" name="x_523852_github_gitteste" text_index="true" type="collection"/>
+</database>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Show/Hide search component in workspace header</description>
+        <name>ws_active_search</name>
+        <page display_value="GitHub">3c3f674c2f365010420849e72799b69f</page>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-18 17:27:21</sys_created_on>
+        <sys_id>b83f674c2f365010420849e72799b6a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ws_active_search</sys_name>
+        <sys_package display_value="GitHub" source="x_523852_github">e1bea30c2f365010420849e72799b619</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitHub">e1bea30c2f365010420849e72799b619</sys_scope>
+        <sys_update_name>sys_ux_page_property_b83f674c2f365010420849e72799b6a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-18 17:27:21</sys_updated_on>
+        <type>boolean</type>
+        <unique_name>x_523852_github.ws_active_search</unique_name>
+        <value>true</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=b83f674c2f365010420849e72799b6a4"/>
+</record_update>
