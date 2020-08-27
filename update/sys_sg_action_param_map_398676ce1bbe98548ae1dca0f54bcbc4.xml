@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (RPAS)">358676ce1bbe98548ae1dca0f54bcbb7</button>
+        <item_parameter display_value="RPAS short_description">bd8676ce1bbe98548ae1dca0f54bcbad</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>137171@localiza.com</sys_created_by>
+        <sys_created_on>2020-08-24 18:27:36</sys_created_on>
+        <sys_id>398676ce1bbe98548ae1dca0f54bcbc4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bd8676ce1bbe98548ae1dca0f54bcbad</sys_name>
+        <sys_package display_value="RaaS" source="x_ibmbi_raas">b906fe4e1bbe98548ae1dca0f54bcb05</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RaaS">b906fe4e1bbe98548ae1dca0f54bcb05</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_398676ce1bbe98548ae1dca0f54bcbc4</sys_update_name>
+        <sys_updated_by>137171@localiza.com</sys_updated_by>
+        <sys_updated_on>2020-08-24 18:27:36</sys_updated_on>
+        <ui_parameter display_value="Short description">398676ce1bbe98548ae1dca0f54bcbbb</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

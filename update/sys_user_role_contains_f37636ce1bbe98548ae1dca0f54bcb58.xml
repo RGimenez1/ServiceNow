@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="workspace_user" name="workspace_user">3bf8d5b65344130084acddeeff7b122b</contains>
+        <role display_value="raas" name="raas">ef76f2ce1bbe98548ae1dca0f54bcbeb</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>137171@localiza.com</sys_created_by>
+        <sys_created_on>2020-08-24 18:27:28</sys_created_on>
+        <sys_id>f37636ce1bbe98548ae1dca0f54bcb58</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>workspace_user.raas</sys_name>
+        <sys_package display_value="RaaS" source="x_ibmbi_raas">b906fe4e1bbe98548ae1dca0f54bcb05</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RaaS">b906fe4e1bbe98548ae1dca0f54bcb05</sys_scope>
+        <sys_update_name>sys_user_role_contains_f37636ce1bbe98548ae1dca0f54bcb58</sys_update_name>
+        <sys_updated_by>137171@localiza.com</sys_updated_by>
+        <sys_updated_on>2020-08-24 18:27:28</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

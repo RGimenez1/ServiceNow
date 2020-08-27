@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="RaaS">fd86764e1bbe98548ae1dca0f54bcbb4</applet_launcher>
+        <icon display_value="Home RaaS">b186764e1bbe98548ae1dca0f54bcbb6</icon>
+        <label>RaaS</label>
+        <roles>admin</roles>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>137171@localiza.com</sys_created_by>
+        <sys_created_on>2020-08-24 18:27:36</sys_created_on>
+        <sys_id>7186764e1bbe98548ae1dca0f54bcbb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RaaS</sys_name>
+        <sys_package display_value="RaaS" source="x_ibmbi_raas">b906fe4e1bbe98548ae1dca0f54bcb05</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RaaS">b906fe4e1bbe98548ae1dca0f54bcb05</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_7186764e1bbe98548ae1dca0f54bcbb6</sys_update_name>
+        <sys_updated_by>137171@localiza.com</sys_updated_by>
+        <sys_updated_on>2020-08-24 18:27:36</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

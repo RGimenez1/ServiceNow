@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <connection_type>http_connection</connection_type>
+        <id>x_ibmbi_raas.AutomationAnywhereRPA</id>
+        <multiple_connections>true</multiple_connections>
+        <name>AutomationAnywhereRPA</name>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>137171@localiza.com</sys_created_by>
+        <sys_created_on>2020-08-24 18:46:17</sys_created_on>
+        <sys_id>14ca72861bf6d8548ae1dca0f54bcbc0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_ibmbi_raas.AutomationAnywhereRPA</sys_name>
+        <sys_package display_value="RaaS" source="x_ibmbi_raas">b906fe4e1bbe98548ae1dca0f54bcb05</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RaaS">b906fe4e1bbe98548ae1dca0f54bcb05</sys_scope>
+        <sys_update_name>sys_alias_14ca72861bf6d8548ae1dca0f54bcbc0</sys_update_name>
+        <sys_updated_by>137171@localiza.com</sys_updated_by>
+        <sys_updated_on>2020-08-24 19:17:36</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+</record_update>

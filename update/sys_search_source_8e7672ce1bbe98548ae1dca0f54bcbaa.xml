@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <name>RPASs</name>
+        <source_table>x_ibmbi_raas_rpas</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>137171@localiza.com</sys_created_by>
+        <sys_created_on>2020-08-24 18:27:21</sys_created_on>
+        <sys_id>8e7672ce1bbe98548ae1dca0f54bcbaa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RPASs</sys_name>
+        <sys_package display_value="RaaS" source="x_ibmbi_raas">b906fe4e1bbe98548ae1dca0f54bcb05</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RaaS">b906fe4e1bbe98548ae1dca0f54bcb05</sys_scope>
+        <sys_update_name>sys_search_source_8e7672ce1bbe98548ae1dca0f54bcbaa</sys_update_name>
+        <sys_updated_by>137171@localiza.com</sys_updated_by>
+        <sys_updated_on>2020-08-24 18:27:21</sys_updated_on>
+    </sys_search_source>
+</record_update>
